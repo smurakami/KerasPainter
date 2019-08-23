@@ -1,1 +1,5 @@
 models/*.h5
+movie/*.gif
+movie/*.mp4
+movie/*.png
+movie/frames/*.png
