@@ -4,7 +4,7 @@ Giving value to worthless designs using neural networks.
 
 Here is full code example: https://github.com/smurakami/KerasPainter/blob/master/KerasPainter.ipynb
 
-## Painting Images
+## Source "worthless" Images
 
 ![](./screenshots/source_images.png)
 
